@@ -1,0 +1,4 @@
+{"file":"spriteSheet.png","frames":{
+"bullet_png":{"x":263,"y":0,"w":40,"h":73,"offX":0,"offY":0,"sourceW":40,"sourceH":73},
+"p2_btn_png":{"x":0,"y":0,"w":261,"h":101,"offX":0,"offY":0,"sourceW":261,"sourceH":101},
+"submit_png":{"x":0,"y":103,"w":258,"h":100,"offX":0,"offY":0,"sourceW":261,"sourceH":101}}}

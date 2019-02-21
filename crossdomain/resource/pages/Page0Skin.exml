@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="Page0Skin" width="640" height="1050" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" source="fight_bg_jpg" left="0" right="0" top="0" bottom="0"/>
+	<e:Label id="jsonTf" text="标签" y="25" textColor="0x000000" height="86" verticalAlign="middle" textAlign="center" left="0" right="0" size="40"/>
+	<e:Label id="txtTf" y="157" textColor="0x000000" text="标签" height="77" verticalAlign="middle" textAlign="center" left="0" right="0" size="40"/>
+	<e:Label id="xmlTf" y="271" textColor="0x000000" text="标签" height="101" verticalAlign="middle" textAlign="center" left="0" right="0" size="40"/>
+	<e:BitmapLabel y="418" font="fnt_fnt" text="1234567890" horizontalCenter="75"/>
+	<e:Label text="位图字体：" x="19" y="442" height="34" width="168" textColor="0x000000"/>
+	<e:Label y="972" textColor="0x000000" text="纹理集：" width="168" height="34" x="55"/>
+	<e:Label y="738" textColor="0x000000" text="逐帧动画：" width="168" height="34" x="13"/>
+	<e:Image source="bullet_png" x="244" y="951"/>
+	<e:Image source="p2_btn_png" x="330" y="932"/>
+</e:Skin>

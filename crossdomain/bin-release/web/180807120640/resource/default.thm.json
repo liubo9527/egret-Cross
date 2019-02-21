@@ -1,0 +1,10 @@
+{
+  "autoGenerateExmlsList": true,
+  "exmls": [
+    {
+      "path": "resource/pages/Page0Skin.exml",
+      "content": "<?xml version='1.0' encoding='utf-8'?>\n<e:Skin class=\"Page0Skin\" width=\"640\" height=\"1050\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n\t<e:Image id=\"bg\" source=\"fight_bg_jpg\" left=\"0\" right=\"0\" top=\"0\" bottom=\"0\"/>\n\t<e:Label id=\"jsonTf\" text=\"标签\" y=\"25\" textColor=\"0x000000\" height=\"86\" verticalAlign=\"middle\" textAlign=\"center\" left=\"0\" right=\"0\" size=\"40\"/>\n\t<e:Label id=\"txtTf\" y=\"157\" textColor=\"0x000000\" text=\"标签\" height=\"77\" verticalAlign=\"middle\" textAlign=\"center\" left=\"0\" right=\"0\" size=\"40\"/>\n\t<e:Label id=\"xmlTf\" y=\"271\" textColor=\"0x000000\" text=\"标签\" height=\"101\" verticalAlign=\"middle\" textAlign=\"center\" left=\"0\" right=\"0\" size=\"40\"/>\n\t<e:BitmapLabel y=\"418\" font=\"fnt_fnt\" text=\"1234567890\" horizontalCenter=\"75\"/>\n\t<e:Label text=\"位图字体：\" x=\"19\" y=\"442\" height=\"34\" width=\"168\" textColor=\"0x000000\"/>\n\t<e:Label y=\"972\" textColor=\"0x000000\" text=\"纹理集：\" width=\"168\" height=\"34\" x=\"55\"/>\n\t<e:Label y=\"738\" textColor=\"0x000000\" text=\"逐帧动画：\" width=\"168\" height=\"34\" x=\"13\"/>\n\t<e:Image source=\"bullet_png\" x=\"244\" y=\"951\"/>\n\t<e:Image source=\"p2_btn_png\" x=\"330\" y=\"932\"/>\n</e:Skin>"
+    }
+  ],
+  "skins": {}
+}
